@@ -39,8 +39,6 @@ if(isset($_POST['upload'])){
                     
                     <input type="submit" name="upload" value="UPLOAD" class="btn btn-success" >
        
-                    <?php include 'test.php';?>
-                    
                     
                 </form>
             </div>
